@@ -14,7 +14,7 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "commander": "^8.1.0",
-    "openai": "^0.33.0"
+    "commander": "^11.0.0",
+    "openai": "^3.3.0"
   }
 }
